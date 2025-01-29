@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "dev": "ts-node src/server.ts",
+    "build": "tsc",
+    "serve": "node dist/server.js"
+  }
+} 
